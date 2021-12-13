@@ -1,19 +1,18 @@
+
 # coffee-shop
+A simple vue 3 app. **Demo purpose only**.
+Check available coffee, get information about the coffee , use filter to get only the products you are interested in.
+You can check out the app here:
+https://coffee-shop-b8071.web.app/
 
-## Project setup
-```
-npm install
-```
+## Key Features:
+- Responsive design (implemented with css flex, css grid, @media queriers, etc.)
+- Data fetched from firebase 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Technologies used in the Project
+- vue 3 (composition api)
+- vue-router
+- scss
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
