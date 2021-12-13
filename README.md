@@ -1,7 +1,8 @@
 
 # coffee-shop
-A simple vue 3 app. **Demo purpose only**.
-Check available coffee, get information about the coffee , use filter to get only the products you are interested in.
+A simple vue 3 app.   
+**Demo purpose only**.  
+Check available coffee, get information about the coffee , use filter to get only the products you are interested in.  
 You can check out the app here:
 https://coffee-shop-b8071.web.app/
 
