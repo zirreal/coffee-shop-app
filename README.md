@@ -25,8 +25,11 @@ https://coffee-shop-b8071.web.app/
 ## Additional  libraries
 - vue-router
 
+---
 
 =====================================================
+
+---
 
 
 > :bulb: **RUS** 
@@ -46,7 +49,7 @@ https://coffee-shop-b8071.web.app/
 - Адаптивная верстка лендинга ( с использованием технологии css flex, css grid, @media queriers)
 - Верстка выполнена с использованием БЭМ и SCSS
 
-## Технологии использованные в проекте:
+## Технологии, использованные в проекте:
 - vue 3 (composition api)
 - scss
 
